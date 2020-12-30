@@ -1,0 +1,1 @@
+region="your-aws-region (eu-west-1 for example)"
